@@ -57,37 +57,74 @@
   </tr>
 </table>
 
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
 <h2>Groups</h2>
 
-<table>
+<table style="width: 20%">
   <tr>
     <th>Group #1</th>
-    
-    <tr> 
+  </tr>
+  <tr>
+    <td>Grace Hopper</td>  
+  </tr>
+  <tr>
+    <td>Assign student</td> 
+  </tr>
 </table>
-<table>
-  <tr>
-    <th>Group #1</th>
-   
+<table style="width:20%">
+     <tr>
+        <th>Group #2</th>
+     </tr><br>
+    <tr>
+      <td>Ada Lovelace</td>  
+    </tr>
     <tr> 
+        <td>Joan Clarke</td>
+     </tr>
 </table>
-<table>
-  <tr>
-    <th>Group #1</th>
-    
-    <tr> 
+<table style="width:20%">
+     <tr>
+        <th>Group #3</th>
+     </tr><br>
+    <tr>
+      <td>Assign student</td>  
+    </tr>
+    <tr>
+      <td>Assign student</td>  
+    </tr>
 </table>
-<table>
-  <tr>
-    <th>Group #1</th>
-   
-    <tr> 
+<table style="width:20%">
+     <tr>
+        <th>Group #4</th>
+     </tr><br>
+    <tr>
+      <td>Assign student</td>  
+    </tr>
+    <tr>
+      <td>Assign student</td>  
+    </tr>
 </table>
-<table>
-  <tr>
-    <th>Group #1</th>
+<table style="width:20%">
+     <tr>
+        <th>Group #5</th>
+     </tr><br>
+    <tr>
+      <td>Assign student</td>  
+    </tr>
+    <tr>
+      <td>Assign student</td>  
+    </tr>
+</table>
+
   
-    <tr> 
+
 </table>
 </body>
 </html>

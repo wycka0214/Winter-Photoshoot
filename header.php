@@ -7,5 +7,5 @@ header{
 </style>
 
 <header>
-    <a href="index.php">Winter Photoshoot</a>
+    <a style="color: blue;" href="index.php">Winter Photoshoot</a>
 </header>

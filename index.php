@@ -1,4 +1,8 @@
-<?php session_start();?>
+<?php
+    require __DIR__."/students.php";
+    
+?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +29,7 @@
 </head>
 <body> 
     <?php include "header.php"?>
-</head>
+    <?php include "main.css"?>
 
 <h2>Students</h2>
 
@@ -57,13 +61,11 @@
   </tr>
 </table>
 
-
 <style>
 table, th, td {
   border:1px solid black;
 }
 </style>
-<body>
 
 <h2>Groups</h2>
 
@@ -123,8 +125,5 @@ table, th, td {
     </tr>
 </table>
 
-  
-
-</table>
 </body>
 </html>
